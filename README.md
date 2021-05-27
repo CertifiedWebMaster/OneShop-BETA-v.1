@@ -1,6 +1,6 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# OneShop E-Commerce Platform
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+This is a small business E-commerce platform built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/),[Samuel Lorenz](http://www.samlorenz.com/), [spacefarm.digital](https://www.spacefarm.digital) 
 
 ## Getting started
 
